@@ -1,0 +1,12 @@
+com/example/externalapispringboot/response/Candidate.class
+com/example/externalapispringboot/response/GeminiResponse.class
+com/example/externalapispringboot/controller/ApiController.class
+com/example/externalapispringboot/ExternalApiSpringbootApplication.class
+com/example/externalapispringboot/config/RestTemplateConfig.class
+com/example/externalapispringboot/service/ApiService.class
+com/example/externalapispringboot/response/Content.class
+com/example/externalapispringboot/request/Content$Part.class
+com/example/externalapispringboot/config/WebConfig.class
+com/example/externalapispringboot/request/Content.class
+com/example/externalapispringboot/response/Part.class
+com/example/externalapispringboot/request/Content$ContentItem.class

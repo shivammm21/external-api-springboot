@@ -1,0 +1,10 @@
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/response/Part.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/response/Content.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/request/Content.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/response/GeminiResponse.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/config/WebConfig.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/controller/ApiController.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/config/RestTemplateConfig.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/response/Candidate.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/ExternalApiSpringbootApplication.java
+/home/jarvis/Documents/Github/external-api-springboot/src/main/java/com/example/externalapispringboot/service/ApiService.java
