@@ -113,6 +113,3 @@ The application uses SLF4J for logging, with detailed logging for:
 - Error conditions
 - Successful operations
 
-## License
-
-This project is licensed under the terms specified in the project's license file. 
